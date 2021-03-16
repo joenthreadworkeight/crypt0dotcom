@@ -5,7 +5,7 @@
 ### Setup guide  
 #### Run via Postman  
 1. Download Postman  
-> https://www.postman.com/downloads/  
+[https://www.postman.com/downloads/](https://www.postman.com/downloads/)  
 
 2. Install and Open Postman  
 3. Import JoeNg-Test1.postman_collection.json into the postman  
@@ -16,8 +16,8 @@ File -> Import...
 
 
 #### Run via newman (console)
-1. Download Nodejs
-> https://nodejs.org/en/
+1. Download Nodejs  
+[https://nodejs.org/en/](https://nodejs.org/en/) 
 
 2. Install Nodejs
 4. Download or checkout the JSON file (JoeNg-Test1.postman_collection.json)
