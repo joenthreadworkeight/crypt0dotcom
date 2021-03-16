@@ -2,8 +2,10 @@
 
 
 ## Task 1  
-### Setup guide  
-#### Run via Postman  
+
+Setup Guide
+------------ 
+### Run via Postman  
 1. Download Postman  
 [https://www.postman.com/downloads/](https://www.postman.com/downloads/)  
 
@@ -15,7 +17,7 @@ File -> Import...
 5. You will get the result at the bottom of Postman
 
 
-#### Run via newman (console)
+### Run via newman (console)
 1. Download Nodejs  
 [https://nodejs.org/en/](https://nodejs.org/en/) 
 
